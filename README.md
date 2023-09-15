@@ -1,3 +1,21 @@
+# You can access the site hosted on Netlify with the following site link
+https://trello-assignment.netlify.app/
+
+1)If a user can create and edit stages for a particular board. For example instead of Open > In Progress > Done if they want the stages of their task board to be Read > Working > Reviewing > Completed
+
+>> In this application by making a few changes we can make these changes however here I have not implemented this feature.
+>> Currently in this application by default it only has todo, doing, and done stages.
+
+2) If users can comment on tasks
+>> Yes users can comment on the task as I am keeping track of each and every task and by adding some more properties to the task we can easily implement the comment on the task
+
+3) How will you do error handling?
+>> For fetching data from the API I have used a try-and-error approach and for any invalid input we can make a controlled component and we can add the validation to it
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
