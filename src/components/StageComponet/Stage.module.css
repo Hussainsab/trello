@@ -13,7 +13,7 @@
 }
 
 .heading {
-  background-color: rgb(214, 208, 208);
+  background-color: var(--header-color);
   width: 100%;
   border-radius: 5px;
 }
@@ -35,7 +35,7 @@
   overflow-y: scroll;
   display: flex;
   flex-direction: column;
-  background-color: rgb(67, 82, 46);
+  background-color: var(--stage-background-color-dark);
   /* justify-content: flex-end; */
   gap: 25px;
   padding: 10px 0 0 10px;

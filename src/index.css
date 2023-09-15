@@ -9,8 +9,11 @@
 :root {
   --background-color-dark: #093579;
   --background-color-light: #00d4ff;
-  --stage-background-color-dark: ;
+  --stage-background-color-dark: rgb(46, 57, 82);
   --stage-background-color-lite: rgba(232, 238, 236, 0.83);
+  --green-color: rgb(97, 131, 124);
+  --white-color: rgb(255, 255, 255);
+  --header-color: rgb(214, 208, 208);
 }
 
 input,

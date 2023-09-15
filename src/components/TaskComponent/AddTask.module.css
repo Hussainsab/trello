@@ -1,7 +1,6 @@
 .AddTaskConatiner {
   width: 100%;
-  height: 30px;
-  background-color: aqua;
+  height: 50px;
   position: relative;
   display: flex;
   border-bottom-left-radius: 5px;
@@ -17,6 +16,13 @@
 }
 
 .AddTaskConatiner > button {
+  font-size: 2rem;
   padding: 10px;
   text-align: center;
+  cursor: pointer;
+}
+
+.AddTaskConatiner > button:hover {
+  background-color: var(--green-color);
+  transition: 0.5s ease;
 }
